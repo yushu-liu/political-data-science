@@ -1,7 +1,8 @@
 # political-data-science
 
-POLITICAL DATA SCIENCE： An Open Introduction  
-                                                                          
+An Open Introduction  
+ 
+ 
 YUSHU LIU
 
 
